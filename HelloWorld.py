@@ -1,8 +1,5 @@
-#Comment from VSCode
+## Simple print statement to sandbox in GitHub
 try:
-    i=1
-    while i<5:
-        print("Hello World {}".format(i))
-        i+=1
+    print("Hello World {}".format(i))
 except Exception as e:
     print(e)
