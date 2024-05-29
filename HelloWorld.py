@@ -1,5 +1,6 @@
 print(
 """
+\tAdding the Cyclops back to the .py file!
             _......._
         .-'.'.'.'.'.'.`-.
       .'.'.'.'.'.'.'.'.'.`.
@@ -20,6 +21,5 @@ print(
         `.  .'      `.  /
           \           .'
            `-..___..-`
-\tOh you better beleive it!!!!
 """
 )
