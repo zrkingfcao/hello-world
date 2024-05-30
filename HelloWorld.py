@@ -1,5 +1,5 @@
 print("""
-\tHere comes the cyclops!
+\t Here comes the cyclops!
             _......._
         .-'.'.'.'.'.'.`-.
       .'.'.'.'.'.'.'.'.'.`.
@@ -20,4 +20,6 @@ print("""
         `.  .'      `.  /
           \           .'
            `-..___..-`
+
+\t Oh you better believe it!!!
 """)
